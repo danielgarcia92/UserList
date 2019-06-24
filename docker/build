@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+docker build -f app/Dockerfile -t userlistdocker/app:latest ./app
+
+
+
